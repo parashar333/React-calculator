@@ -16,7 +16,7 @@ This is a simple calculator application built with React. It supports basic arit
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/parashar333/react-calculator.git
+    git clone https://github.com/parashar333/React-calculator.git
     ```
 
 2. Navigate to the project directory:
